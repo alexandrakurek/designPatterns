@@ -1,0 +1,6 @@
+
+vsquid:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(º²ÿ‘ÿÿÿÿÿ8·óÄ¶-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(‡äĞ“ÿÿÿÿÿ8—½¶-
+psquid:S3008"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·²¾38ÎŸŠ¶-
+ksquid:S1182"HUse super.clone() to create and seed the cloned instance to be returned.(º²ÿ‘ÿÿÿÿÿ8·óÄ¶-

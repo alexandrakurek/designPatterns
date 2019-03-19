@@ -1,0 +1,5 @@
+
+Â%squid:RedundantThrowsDeclarationCheck	"„Remove the declaration of thrown exception 'java.lang.reflect.InvocationTargetException', as it cannot be thrown from method's body.(…«¿®ÿÿÿÿÿ8…¡£Õ-
+¶%squid:RedundantThrowsDeclarationCheck	"yRemove the declaration of thrown exception 'java.lang.IllegalAccessException', as it cannot be thrown from method's body.(…«¿®ÿÿÿÿÿ8…¡£Õ-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Æ¸¼‰øÿÿÿÿ8…¡£Õ-
+¶%squid:RedundantThrowsDeclarationCheck	"yRemove the declaration of thrown exception 'java.lang.InstantiationException', as it cannot be thrown from method's body.(…«¿®ÿÿÿÿÿ8…¡£Õ-
